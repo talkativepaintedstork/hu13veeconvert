@@ -1,0 +1,29 @@
+{
+  "name": "hu13veeconvert",
+  "version": "1.0.0",
+  "description": "hu13veeconvert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talkativepaintedstork/hu13veeconvert.git"
+  },
+  "keywords": [
+    "hu13veeconvert",
+    "ethereum",
+    "gas",
+    "eth",
+    "crypto"
+  ],
+  "author": "talkativepaintedstork",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/talkativepaintedstork/hu13veeconvert/issues"
+  },
+  "homepage": "https://github.com/talkativepaintedstork/hu13veeconvert#readme",
+  "dependencies": {
+    "web3": "^1.5.2"
+  }
+}
